@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>"MEET WITH NAVEEN</title>
+		<style>
+		body{
+			background-image:url('bg1.png');
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:cover;
+			}
+		</style>
+	</head>
+
+	<body style="background-color:powderblue;">
+<!-- MY FIRST PROJECT-->
+		<h1 style="text-align:center;color:green;font-family:verdana;"><u>DISCOVERING ME</u></h1>
+		<h2 style="font-family:courier">NAVEEN.S</h2>
+
+		<img src="IMG_20200827_144340.jpg" alt="image missing width="50" height="100">
+
+		<p><strong>I am</strong> Naveen S. I was born on 20th October 1999 in a remote village of Kottayam district called velloor.Name of my father is K Sanil Kumar 
+		and mother's name is Rekha L.I have completed primary and upper primary studies from V.V.E.M.S Muthukulam and S.N.M.U.P.S Muthukulam.
+		I got my SSLC from Vocational Higher Secondary School Muthukulam in 2016.I completed my Higher Secondary Education from M.D.Seminary H.S.S 
+		Kottayam in 2018.Now I am an electronics student of <strong>Government Rajiv Gandhi Institute of Technology, Kottayam.</strong></p>
+		
+		<p style="background-color:blue;color:white;">To know how to create a webpage like this. 
+		<a href="https://www.w3schools.com/" style="background-color:blue;color:black;">Click Here</a></p>
+
+		
+	</body>
+</html>
